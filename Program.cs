@@ -1,8 +1,8 @@
-﻿using DesignPatternFactoryMethod.Models;
+﻿using RobotFactory.Models;
 using System;
 using System.Linq;
 
-namespace DesignPatternFactoryMethod
+namespace RobotFactory
 {
     class Program
     {

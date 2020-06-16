@@ -1,4 +1,4 @@
-﻿namespace DesignPatternFactoryMethod.Interfaces
+﻿namespace RobotFactory.Interfaces
 {
     public enum ProfessionType
     {

@@ -1,10 +1,10 @@
-﻿using DesignPatternFactoryMethod.Interfaces;
+﻿using RobotFactory.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DesignPatternFactoryMethod.Models
+namespace RobotFactory.Models
 {
     public class Factory : IFactory
     {
